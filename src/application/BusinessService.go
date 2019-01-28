@@ -3,10 +3,10 @@ package application
 import (
 	"encoding/json"
 	"fmt"
-	crosscutting "go-starter-commandhandler/src/crosscutting/error"
-	"go-starter-commandhandler/src/crosscutting/messaging"
-	"go-starter-commandhandler/src/domain/event"
-	"go-starter-commandhandler/src/domain/model"
+	crosscutting "go-starter-eventhandler/src/crosscutting/error"
+	"go-starter-eventhandler/src/crosscutting/messaging"
+	"go-starter-eventhandler/src/domain/event"
+	"go-starter-eventhandler/src/domain/model"
 
 	"time"
 )

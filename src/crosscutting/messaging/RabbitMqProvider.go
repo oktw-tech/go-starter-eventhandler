@@ -1,8 +1,8 @@
 package messaging
 
 import (
-	crosscutting "go-starter-commandhandler/src/crosscutting/error"
-	"go-starter-commandhandler/src/infrastructure/configuration"
+	crosscutting "go-starter-eventhandler/src/crosscutting/error"
+	"go-starter-eventhandler/src/infrastructure/configuration"
 	"log"
 
 	"github.com/streadway/amqp"

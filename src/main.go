@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-starter-commandhandler/src/application"
+	"go-starter-eventhandler/src/application"
 
 	"github.com/betacraft/yaag/irisyaag"
 	"github.com/betacraft/yaag/yaag"

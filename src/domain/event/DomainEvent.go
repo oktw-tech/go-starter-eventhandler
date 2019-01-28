@@ -1,6 +1,6 @@
 package event
 
-import "go-starter-commandhandler/src/domain/model"
+import "go-starter-eventhandler/src/domain/model"
 
 //DomainEvent : Event to define a changing of business object state
 type DomainEvent struct {
